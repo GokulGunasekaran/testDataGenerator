@@ -1,6 +1,6 @@
 package com.example.testDataGenerator.TestDataSteps;
 
-import Data.TestData;
+import com.example.testDataGenerator.TestDataSteps.Data.TestData;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 
